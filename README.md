@@ -13,26 +13,27 @@ The purpose of this project was to analyze bikeshare data from CitiBike in New Y
     - Analysis on bike repair and utilizationn
 
 # Results
-
+Below data shows that more than 75% of bike riders are Subscribers. Bikeriding share program users are predominantly male at about 5/8 and the rest are female only about 1/4 and the unknown gender at 1/8 of total subscibers,
 ![Gender Breakdown](https://user-images.githubusercontent.com/92903447/152702772-76edb14d-624d-42d6-9c2c-fa83e946be08.png)
 
-
+Image below shows the heated map of usage per gender per specific times
 ![Checkout times for Users per Gender](https://user-images.githubusercontent.com/92903447/152701931-39a4405e-6f93-401d-aeac-c7c100e3259b.png)
 
-
+Heatmap image below shows where are the hotspots for tourist and visitors bike service ares most and least usage 
 ![Start Location Heatmap](https://user-images.githubusercontent.com/92903447/152701940-812326a9-57ee-47d8-9896-34148a0eaf6b.png)
 
 
 ![Trips by weekday for each hour viz](https://user-images.githubusercontent.com/92903447/152701949-a9def7d0-88fe-4b87-a4f6-cb52da22b2c5.png)
 
-
+The heatmap image below shows  a usage and maintenance per week. Diverging colors of red to green were used to indicate which for colored read meands  no. of bikes will need frequent repair and diverging to green indicates low usages of bikes and means lower and occasional maintenance.
 ![bike repairs](https://user-images.githubusercontent.com/92903447/152701952-de5fe7f4-2390-4c33-86d2-d16f2cc5af3c.png)
 
 
 ![User trips Gender Weekday Viz](https://user-images.githubusercontent.com/92903447/152701962-a6e0c98a-d112-45fb-9209-2e6ea4b71ce7.png)
 
 
-![Trips by weekday for each hour viz](https://user-images.githubusercontent.com/92903447/152701968-46a8b876-aa50-48a9-8926-6bcaa957c4a6.png)
+![Sum of calculated trip duration per bike rider](https://user-images.githubusercontent.com/92903447/152704036-d28aa551-58c4-4bed-9e62-be09b3fc2c97.png)
+
 
 # Summary:
 
