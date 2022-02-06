@@ -1,1 +1,43 @@
-# bikesharing
+# Bikesharing with NYC CitiBike Sharing Program data
+A business analysis of NYC CitiBike bikesharing data from August, 2019 using Tableau and Python and panda libraries
+
+#Overview
+The purpose of this project was to analyze bikeshare data from CitiBike in New York City to solidy presentation  to stockholdersfor looking for a bike trip business analysis
+
+## My Dashboard link: 
+
+# Data Results for below topic outline
+    - Determining bikeshare programs subscribers gender breakddown
+    - City map area location of  the most bikeshare usage
+    - Trip duration per week and  time of day are bikes used the most and the least
+    - Analysis on bike repair and utilizationn
+
+# Results
+
+![Gender Breakdown](https://user-images.githubusercontent.com/92903447/152702772-76edb14d-624d-42d6-9c2c-fa83e946be08.png)
+
+
+![Checkout times for Users per Gender](https://user-images.githubusercontent.com/92903447/152701931-39a4405e-6f93-401d-aeac-c7c100e3259b.png)
+
+
+![Start Location Heatmap](https://user-images.githubusercontent.com/92903447/152701940-812326a9-57ee-47d8-9896-34148a0eaf6b.png)
+
+
+![Trips by weekday for each hour viz](https://user-images.githubusercontent.com/92903447/152701949-a9def7d0-88fe-4b87-a4f6-cb52da22b2c5.png)
+
+
+![bike repairs](https://user-images.githubusercontent.com/92903447/152701952-de5fe7f4-2390-4c33-86d2-d16f2cc5af3c.png)
+
+
+![User trips Gender Weekday Viz](https://user-images.githubusercontent.com/92903447/152701962-a6e0c98a-d112-45fb-9209-2e6ea4b71ce7.png)
+
+
+![Trips by weekday for each hour viz](https://user-images.githubusercontent.com/92903447/152701968-46a8b876-aa50-48a9-8926-6bcaa957c4a6.png)
+
+#Summary:
+
+Bikesriding services are remarkably popular in the downtown and mertropolitan New Youre, , where occupied real estate and Central Park is densely packed and parking spaces are difficult. The number of male subscribers  is predominantly high than female riders. Bike riding is busiest  around morning and evening commute times on weekdays and also on weekends and Saturday between 11 to 4pm is the busiest time.
+
+I would pursue on additional inquiry regarding the city system  adding stations and docks to the existing service area to mprove system density and increase capacity, and  enabling more Citi Bike trips for the conmmunity. 
+
+
