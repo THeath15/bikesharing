@@ -1,10 +1,10 @@
 # Bikesharing with NYC CitiBike Sharing Program data
 A business analysis of NYC CitiBike bikesharing data from August, 2019 using Tableau and Python and panda libraries
 
-#Overview
+# Overview
 The purpose of this project was to analyze bikeshare data from CitiBike in New York City to solidy presentation  to stockholdersfor looking for a bike trip business analysis
 
-## My Dashboard link: 
+## Click here for my [Tableau Dashboard Link Page](https://public.tableau.com/app/profile/th3304/viz/NYC_Citibike_Challenge_16441182375560/NYCCitibikeSharingProgram-Analysis?publish=yes)
 
 # Data Results for below topic outline
     - Determining bikeshare programs subscribers gender breakddown
@@ -34,10 +34,12 @@ The purpose of this project was to analyze bikeshare data from CitiBike in New Y
 
 ![Trips by weekday for each hour viz](https://user-images.githubusercontent.com/92903447/152701968-46a8b876-aa50-48a9-8926-6bcaa957c4a6.png)
 
-#Summary:
+# Summary:
 
-Bikesriding services are remarkably popular in the downtown and mertropolitan New Youre, , where occupied real estate and Central Park is densely packed and parking spaces are difficult. The number of male subscribers  is predominantly high than female riders. Bike riding is busiest  around morning and evening commute times on weekdays and also on weekends and Saturday between 11 to 4pm is the busiest time.
+Bikesriding services are remarkably popular in the downtown and mertropolitan New Youre,  where occupied  residential houses and real estates and businessed and Central Park is densely packed and parking spaces are difficult. The number of male subscribers  is predominantly high than female riders. Bike riding is busiest  around morning and evening commute times on weekdays and also on weekends and Saturday between 11 to 4pm is the busiest time.
 
+
+Recommendation/Suggestion 
 I would pursue on additional inquiry regarding the city system  adding stations and docks to the existing service area to mprove system density and increase capacity, and  enabling more Citi Bike trips for the conmmunity. 
 
 
